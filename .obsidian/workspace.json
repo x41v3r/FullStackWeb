@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "090960cf5e10b5c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a95aedb9a54f3da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be1c2890d60289c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/HTML5/1.关于HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f3de2ed2eb381b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "86b56675a0746d13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db10e93f888e2412",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2548227e0448a71",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aeaf282eb8d23c8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc9f26d9f4cb41db",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb0a69dc6f7d6b7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2d0c3b047e54c0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Frontend/HTML5/1.关于HTML.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8c2103333eb3bd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Frontend/HTML5/1.关于HTML.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d806e862675f8ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c42c71375c802ef1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Frontend/HTML5/1.关于HTML.md"
+              }
+            }
+          },
+          {
+            "id": "2575a7e66d9d0a0a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2575a7e66d9d0a0a",
+  "lastOpenFiles": [
+    "README.md",
+    "Frontend/HTML5/1.关于HTML.md",
+    "Database/MySQL",
+    "Database",
+    "Frontend/HTML5",
+    "Java/Java基础语法",
+    "欢迎.md",
+    "Frontend",
+    "Java"
+  ]
+}
